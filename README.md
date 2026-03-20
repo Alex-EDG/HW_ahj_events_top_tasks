@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "3. Обработка событий"
 
-[![Build status](https://ci.appveyor.com/api/projects/status/cciyxpx3hf1dn5ud?svg=true)](https://ci.appveyor.com/project/Alex-EDG/hw-ahj-events-top-tasks)
+[![Build status](https://ci.appveyor.com/api/projects/status/hlh9wlupt6i94xw4?svg=true)](https://ci.appveyor.com/project/Alex-EDG/hw-ahj-events-top-tasks)
 
 [Github Pages](https://alex-edg.github.io/HW_ahj_events_top_tasks/)
 
