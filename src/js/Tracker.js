@@ -17,7 +17,7 @@ export default class Tracker {
 
   init() {
     this.drawUI();
-    this.addsListners();
+    this.addsListeners();
   }
 
   bindToDOM(container) {
@@ -62,7 +62,7 @@ export default class Tracker {
     this.taskListPinnedEl = this.container.querySelector('.tasks__list.pinned');
   }
 
-  addsListners() {
+  addsListeners() {
     this.input.addEventListener('keyup', event => this.addTaskToDOM(event));
     this.input.addEventListener('blur', () => this.onBlur());
     this.input.addEventListener('input', () => this.showFilteredTasks());
